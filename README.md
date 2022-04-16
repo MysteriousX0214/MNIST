@@ -1,2 +1,2 @@
 # MNIST
-hand-writing digjts recognition
+hand-writing digits recognition
